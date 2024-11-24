@@ -27,11 +27,17 @@ Enhance Dataset: Adding this calculated field will streamline further SQL analys
 
 7. SQL Analysis: Complex Queries and Business Problem Solving
 Business Problem-Solving: Write and execute complex SQL queries to answer critical business questions, such as:
+
 Revenue trends across branches and categories.
+
 Identifying best-selling product categories.
+
 Sales performance by time, city, and payment method.
+
 Analyzing peak sales periods and customer buying patterns.
+
 Profit margin analysis by branch and category.
+
 Documentation: Keep clear notes of each query's objective, approach, and results.
 
 10. Project Publishing and Documentation
