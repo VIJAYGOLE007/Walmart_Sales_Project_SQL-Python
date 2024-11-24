@@ -40,11 +40,15 @@ Profit margin analysis by branch and category.
 
 Documentation: Keep clear notes of each query's objective, approach, and results.
 
-10. Project Publishing and Documentation
+8. Project Publishing and Documentation
 Documentation: Maintain well-structured documentation of the entire process in Markdown or a Jupyter Notebook.
+
 Project Publishing: Publish the completed project on GitHub or any other version control platform, including:
+
 The README.md file (this document).
+
 Jupyter Notebooks (if applicable).
+
 SQL query scripts.
 Data files (if possible) or steps to access them.
 
